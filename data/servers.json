@@ -43,11 +43,11 @@
     "id": "cloudgame-assaultcube",
     "title": "AssaultCube",
     "genre": "3D Tactical FPS",
-    "stream_url": "",
-    "status": "ready",
+    "stream_url": "https://female-carroll-modular-sin.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
+    "status": "online",
     "active_players": 0,
     "latency_ms": 24,
-    "last_ping": "2026-09-21T10:00:00Z"
+    "last_ping": "2026-09-21T13:18:40.261Z"
   },
   {
     "id": "cloudgame-neverball",
