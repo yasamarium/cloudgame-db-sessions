@@ -1,0 +1,102 @@
+[
+  {
+    "id": "cloudgame-supertux",
+    "title": "SuperTux 2",
+    "genre": "2D Platformer",
+    "stream_url": "",
+    "status": "ready",
+    "active_players": 0,
+    "latency_ms": 25,
+    "last_ping": "2026-09-21T10:00:00Z"
+  },
+  {
+    "id": "cloudgame-doom",
+    "title": "Doom / Freedoom",
+    "genre": "3D FPS",
+    "stream_url": "",
+    "status": "ready",
+    "active_players": 0,
+    "latency_ms": 22,
+    "last_ping": "2026-09-21T10:00:00Z"
+  },
+  {
+    "id": "cloudgame-openarena",
+    "title": "OpenArena",
+    "genre": "3D Arena FPS",
+    "stream_url": "",
+    "status": "ready",
+    "active_players": 0,
+    "latency_ms": 28,
+    "last_ping": "2026-09-21T10:00:00Z"
+  },
+  {
+    "id": "cloudgame-minetest",
+    "title": "Minetest (Luanti)",
+    "genre": "Voxel Sandbox",
+    "stream_url": "",
+    "status": "ready",
+    "active_players": 0,
+    "latency_ms": 30,
+    "last_ping": "2026-09-21T10:00:00Z"
+  },
+  {
+    "id": "cloudgame-assaultcube",
+    "title": "AssaultCube",
+    "genre": "3D Tactical FPS",
+    "stream_url": "",
+    "status": "ready",
+    "active_players": 0,
+    "latency_ms": 24,
+    "last_ping": "2026-09-21T10:00:00Z"
+  },
+  {
+    "id": "cloudgame-neverball",
+    "title": "Neverball",
+    "genre": "3D Physics Puzzle",
+    "stream_url": "",
+    "status": "ready",
+    "active_players": 0,
+    "latency_ms": 20,
+    "last_ping": "2026-09-21T10:00:00Z"
+  },
+  {
+    "id": "cloudgame-supertuxkart",
+    "title": "SuperTuxKart",
+    "genre": "3D Kart Racing",
+    "stream_url": "",
+    "status": "ready",
+    "active_players": 0,
+    "latency_ms": 32,
+    "last_ping": "2026-09-21T10:00:00Z"
+  },
+  {
+    "id": "cloudgame-teeworlds",
+    "title": "Teeworlds",
+    "genre": "2D Multiplayer Shooter",
+    "stream_url": "",
+    "status": "ready",
+    "active_players": 0,
+    "latency_ms": 21,
+    "last_ping": "2026-09-21T10:00:00Z"
+  },
+  {
+    "id": "cloudgame-chromium-bsu",
+    "title": "Chromium B.S.U.",
+    "genre": "Arcade Space Shooter",
+    "stream_url": "",
+    "status": "ready",
+    "active_players": 0,
+    "latency_ms": 18,
+    "last_ping": "2026-09-21T10:00:00Z"
+  },
+  {
+    "id": "cloudgame-retroarch",
+    "title": "RetroArch Core",
+    "genre": "Universal Retro Emulator",
+    "stream_url": "",
+    "status": "ready",
+    "active_players": 0,
+    "latency_ms": 19,
+    "last_ping": "2026-09-21T10:00:00Z"
+  }
+]
