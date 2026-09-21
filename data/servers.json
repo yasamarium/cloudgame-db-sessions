@@ -83,11 +83,11 @@
     "id": "cloudgame-chromium-bsu",
     "title": "Chromium B.S.U.",
     "genre": "Arcade Space Shooter",
-    "stream_url": "",
-    "status": "ready",
+    "stream_url": "https://threaded-demonstrate-oriented-anonymous.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
+    "status": "online",
     "active_players": 0,
     "latency_ms": 18,
-    "last_ping": "2026-09-21T10:00:00Z"
+    "last_ping": "2026-09-21T13:18:51.794Z"
   },
   {
     "id": "cloudgame-retroarch",
