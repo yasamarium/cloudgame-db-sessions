@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CloudGameSessionsData",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "genre": {
+      "type": "string"
+    },
+    "stream_url": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "online",
+        "starting",
+        "offline",
+        "restarting"
+      ]
+    },
+    "active_players": {
+      "type": "number"
+    },
+    "latency_ms": {
+      "type": "number"
+    },
+    "last_ping": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "title",
+    "status"
+  ]
+}
