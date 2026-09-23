@@ -53,11 +53,11 @@
     "id": "cloudgame-neverball",
     "title": "Neverball",
     "genre": "3D Physics Puzzle",
-    "stream_url": "https://diamonds-charlie-spirits-xml.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
+    "stream_url": "https://blend-utah-tactics-marketplace.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
     "status": "online",
     "active_players": 0,
     "latency_ms": 20,
-    "last_ping": "2026-09-23T14:55:14.274Z"
+    "last_ping": "2026-09-23T18:40:10.593Z"
   },
   {
     "id": "cloudgame-supertuxkart",
