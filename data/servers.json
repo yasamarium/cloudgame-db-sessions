@@ -93,10 +93,10 @@
     "id": "cloudgame-retroarch",
     "title": "RetroArch Core",
     "genre": "Universal Retro Emulator",
-    "stream_url": "https://everybody-nav-steering-controller.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
+    "stream_url": "https://postings-frontier-glucose-subscriber.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
     "status": "online",
     "active_players": 0,
     "latency_ms": 19,
-    "last_ping": "2026-09-23T09:00:06.446Z"
+    "last_ping": "2026-09-23T09:00:07.993Z"
   }
 ]
