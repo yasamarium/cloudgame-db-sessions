@@ -93,10 +93,10 @@
     "id": "cloudgame-retroarch",
     "title": "RetroArch Core",
     "genre": "Universal Retro Emulator",
-    "stream_url": "https://gibraltar-viii-latin-observer.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
+    "stream_url": "https://outputs-lucky-bibliographic-snake.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
     "status": "online",
     "active_players": 0,
     "latency_ms": 19,
-    "last_ping": "2026-09-23T22:30:11.349Z"
+    "last_ping": "2026-09-23T22:30:13.868Z"
   }
 ]
