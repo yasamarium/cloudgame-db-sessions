@@ -43,11 +43,11 @@
     "id": "cloudgame-assaultcube",
     "title": "AssaultCube",
     "genre": "3D Tactical FPS",
-    "stream_url": "https://burlington-brand-ciao-compaq.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
+    "stream_url": "https://conceptual-minus-brighton-avatar.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
     "status": "online",
     "active_players": 0,
     "latency_ms": 24,
-    "last_ping": "2026-09-23T23:30:34.436Z"
+    "last_ping": "2026-09-23T23:30:35.470Z"
   },
   {
     "id": "cloudgame-neverball",
