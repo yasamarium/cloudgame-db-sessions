@@ -63,11 +63,11 @@
     "id": "cloudgame-supertuxkart",
     "title": "SuperTuxKart",
     "genre": "3D Kart Racing",
-    "stream_url": "https://idle-kit-grown-principles.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
+    "stream_url": "https://concert-seeds-respect-sunny.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
     "status": "online",
     "active_players": 0,
     "latency_ms": 32,
-    "last_ping": "2026-09-24T00:35:32.775Z"
+    "last_ping": "2026-09-24T00:35:37.352Z"
   },
   {
     "id": "cloudgame-teeworlds",
