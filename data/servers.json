@@ -23,11 +23,11 @@
     "id": "cloudgame-openarena",
     "title": "OpenArena",
     "genre": "3D Arena FPS",
-    "stream_url": "https://persian-serve-drinking-tile.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
+    "stream_url": "https://moral-gym-throw-thompson.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
     "status": "online",
     "active_players": 0,
     "latency_ms": 28,
-    "last_ping": "2026-09-24T18:32:47.293Z"
+    "last_ping": "2026-09-24T21:03:10.871Z"
   },
   {
     "id": "cloudgame-minetest",
