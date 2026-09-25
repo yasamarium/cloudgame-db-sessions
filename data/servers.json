@@ -23,11 +23,11 @@
     "id": "cloudgame-openarena",
     "title": "OpenArena",
     "genre": "3D Arena FPS",
-    "stream_url": "https://happening-recommendations-zinc-civil.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
+    "stream_url": "https://conversation-storage-sur-moving.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
     "status": "online",
     "active_players": 0,
     "latency_ms": 28,
-    "last_ping": "2026-09-25T02:55:17.524Z"
+    "last_ping": "2026-09-25T02:55:23.399Z"
   },
   {
     "id": "cloudgame-minetest",
