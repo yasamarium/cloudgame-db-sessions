@@ -93,10 +93,10 @@
     "id": "cloudgame-retroarch",
     "title": "RetroArch Core",
     "genre": "Universal Retro Emulator",
-    "stream_url": "https://douglas-valve-elected-policies.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
+    "stream_url": "https://upload-hash-holiday-garlic.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
     "status": "online",
     "active_players": 0,
     "latency_ms": 19,
-    "last_ping": "2026-09-25T01:53:44.048Z"
+    "last_ping": "2026-09-25T05:00:45.353Z"
   }
 ]
