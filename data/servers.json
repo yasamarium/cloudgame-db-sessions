@@ -23,11 +23,11 @@
     "id": "cloudgame-openarena",
     "title": "OpenArena",
     "genre": "3D Arena FPS",
-    "stream_url": "https://organizer-logo-soon-reef.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
+    "stream_url": "https://origin-const-desktop-movie.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
     "status": "online",
     "active_players": 0,
     "latency_ms": 28,
-    "last_ping": "2026-09-25T02:55:39.724Z"
+    "last_ping": "2026-09-25T02:55:47.199Z"
   },
   {
     "id": "cloudgame-minetest",
