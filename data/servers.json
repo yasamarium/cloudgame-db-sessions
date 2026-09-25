@@ -73,11 +73,11 @@
     "id": "cloudgame-teeworlds",
     "title": "Teeworlds",
     "genre": "2D Multiplayer Shooter",
-    "stream_url": "https://cardiff-knights-cells-vision.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
+    "stream_url": "https://woods-thereof-donations-fairfield.trycloudflare.com/vnc.html?autoconnect=true&resize=scale&quality=8",
     "status": "online",
     "active_players": 0,
     "latency_ms": 21,
-    "last_ping": "2026-09-25T11:33:49.841Z"
+    "last_ping": "2026-09-25T11:33:58.962Z"
   },
   {
     "id": "cloudgame-chromium-bsu",
